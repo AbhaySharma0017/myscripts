@@ -18,3 +18,7 @@ echo "Name of this machine is $HOSTNAME"
 
 PWD=$(pwd)
 echo "I am in my current location - $PWD."
+
+CAT=$(cat 03_vardemo.sh)
+echo "This is content of 03_readfile.sh file: $CAT"
+
