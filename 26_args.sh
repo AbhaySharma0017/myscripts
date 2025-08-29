@@ -1,5 +1,6 @@
 #!/bin/bash
 
+set -x # For debugging the script code
 # To access the arguments
 
 echo "First argument is $1"
