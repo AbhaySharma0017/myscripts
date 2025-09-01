@@ -1,0 +1,2 @@
+This will overwrite file
+This will append line

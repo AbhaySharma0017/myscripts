@@ -10,4 +10,4 @@ echo "$mul"
 let sum=$x+$y
 echo $sum
 
-echo "Subratraction is $(($x-$y))"
+echo "Subratraction is $(($x-$y))" 
